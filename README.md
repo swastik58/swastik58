@@ -11,14 +11,13 @@
 - 🤔 I’m looking for help with my project's!
 - 💬 Ask me about my hobbies!😜
 - 📫 How to reach me:[LinkedIn-Swastik Supakar](https://www.linkedin.com/in/swastik-s-697214100/) G-mail-swastiksupakar19@gmail.com
--                    [YouTube - XcaVaToR Gaming](https://www.youtube.com/channel/UCSEn5MQ1HUGWqme0YIxhA_w)
 - 😄 Pronouns:He/His
 - ⚡ Not so fun fact: Gamer and movie freak (also a cricket and football lover) !🤣
 ### Languages and Tools:
 <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/kubernetes.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/python.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/docker.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/pytorch.svg" />  <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/googlecloud.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/tensorflow.svg" />
 
 
-[![Twitter: Swastik123451](https://img.shields.io/twitter/follow/Swastik123451?style=social)](https://twitter.com/SwastikSupakar)
+[![Twitter: Swastik Supakar](https://img.shields.io/twitter/follow/Swastik123451?style=social)](https://twitter.com/SwastikSupakar)
 [![GitHub swastik58](https://img.shields.io/github/followers/swastik58?label=follow&style=social)](https://github.com/swastik58)
 [![website](https://img.shields.io/badge/PortfolioWebsite-swastik58-2648ff?style=flat-square&logo=google-chrome)](https://swastik58.github.io/resume/)
 
