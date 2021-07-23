@@ -19,7 +19,7 @@
 
 [![Twitter: Swastik Supakar](https://img.shields.io/twitter/follow/Swastik123451?style=social)](https://twitter.com/SwastikSupakar)
 [![GitHub swastik58](https://img.shields.io/github/followers/swastik58?label=follow&style=social)](https://github.com/swastik58)
-[![website](https://img.shields.io/badge/PortfolioWebsite-swastik58-2648ff?style=flat-square&logo=google-chrome)](https://swastik58.github.io/resume/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-swastik58-2648ff?style=flat-square&logo=google-chrome)](https://swastik-portfolio.netlify.app/)
 
 ### Stats:
 ![Swastik's github stats](https://github-readme-stats.vercel.app/api?username=swastik58&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swastik58&layout=compact)](https://github.com/swastik58/github-readme-stats)
