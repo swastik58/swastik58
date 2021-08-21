@@ -1,26 +1,56 @@
-### Hola, I'm Swastik Supakar! 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swastik58&label=Hit's&color=blue&style=plastic" alt="swastik58" /> </p>
+<h1 align="center">HOLA AMIGOS... I'm Swastik 👋</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=swastik58&label=Profile%20views&color=0e75b6&style=flat" alt="ayan2809" /> </p>
+
+
+<p align="center">
+<a href="https://twitter.com/SwastikSupakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SwastkSupakar" height="30" width="40" /></a>
+<a href="https://www.facebook.com/swastik.supakar.58/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="swastik.supakar.58" height="30" width="40" /></a>
+<a href="https://www.instagram.com/a_wave_with_0_amplitude/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_wave_with_0_amplitude" height="30" width="40" /></a>
+<a href="https://steamcommunity.com/id/swastiksupakar/" target="blank"><img align="center" src="https://images.app.goo.gl/rKVsossCumquYfUr7" alt="swastiksupakar" height="30" width="40" />
+</a>
+<a href="https://open.spotify.com/user/4h0tl3w6vz5333qsdr1zbhtox" target="blank"><img align="center" src="https://images.app.goo.gl/W9saQ4Vg3bu3rhCdA" alt="swastiksupakar" height="30" width="40" /></a>
+</p>
 
 
 
-### About Me:
-- 🔭 I’m currently working on myself
-- 💪🏻 C++<p align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=swastik58" alt="swastik58" /></p>
-- 🌱 I'm currently learning HTML, CSS, JavaScript and React
+### I am a Frontend Developer pursuing my Undergrad in Instrumentation Engineering
+
+- 🔭 I’m currently working on various projects and myself
+- 🌱 I’m a fontend website developer and currently learning backend
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with my project's!
+- 🥅 2021 Goals: Get a job or give GRE and TOEFL to apply in foreign countries
+- 🌱 I'm currently learning HTML, CSS, JavaScript and React
+- 👯 I’m looking to collaborate on projects
 - 💬 Ask me about my hobbies!😜
-- 📫 How to reach me:[LinkedIn-Swastik Supakar](https://www.linkedin.com/in/swastik-s-697214100/) G-mail-swastiksupakar19@gmail.com
+- 📫 How to reach me:[LinkedIn-Swastik Supakar](https://www.linkedin.com/in/swastik-s-697214100/) 
+- 📩 Mail me here[G-mail-swastiksupakar19@gmail.com](mailto:swastiksupakar19@gmail.com)
 - 😄 Pronouns:He/His
 - ⚡ Not so fun fact: Gamer and movie freak (also a cricket and football lover) !🤣
-### Languages and Tools:
-<img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/kubernetes.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/python.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/docker.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/pytorch.svg" />  <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/googlecloud.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/tensorflow.svg" />
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-[![Twitter: Swastik Supakar](https://img.shields.io/twitter/follow/Swastik123451?style=social)](https://twitter.com/SwastikSupakar)
-[![GitHub swastik58](https://img.shields.io/github/followers/swastik58?label=follow&style=social)](https://github.com/swastik58)
-[![website](https://img.shields.io/badge/PortfolioWebsite-swastik58-2648ff?style=flat-square&logo=google-chrome)](https://swastik-portfolio.netlify.app/)
+### ⚡ Github Stats
+ <p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=swastik58&theme=darkhub">
+<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=swastik58&theme=merko">
+</p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=swastik58&theme=radical&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastik58&theme=radical&layout=compact&hide=Jupyter%20Notebook&langs_count=8"  display=block height=190 align="center" alt="2"></td>
+   </tr>
+</table>
 
-### Stats:
-![Swastik's github stats](https://github-readme-stats.vercel.app/api?username=swastik58&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swastik58&layout=compact)](https://github.com/swastik58/github-readme-stats)
-
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swastik58&theme=solarized_dark"  display=block width=100% height=auto alt="1"></td>
+   </tr>
+   <tr>
+      <td><img src="https://activity-graph.herokuapp.com/graph?username=swastik58&bg_color=073642&color=859900&line=006400&point=35aea1&area=true" display=block width=100% height=auto alt="2"></td>
+  </td>
+  </tr>
+</table>
