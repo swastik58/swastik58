@@ -1,9 +1,9 @@
 <h1 align="center">HOLA AMIGOS... I'm Swastik 👋</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=swastik58&label=Profile%20views&color=0e75b6&style=flat" alt="ayan2809" /> </p>
 
-<h3 align="center>Reach out to me on Social Media </h3> 
+
 <p align="center">
-<br />
+<h3 align="center">Let's connect on Social Media😎</h3>
 <a href="https://twitter.com/SwastikSupakar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SwastkSupakar" height="30" width="40" /></a>
 <a href="https://www.facebook.com/swastik.supakar.58/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="swastik.supakar.58" height="30" width="40" /></a>
 <a href="https://www.instagram.com/a_wave_with_0_amplitude/?hl=en" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_wave_with_0_amplitude" height="30" width="40" /></a>
