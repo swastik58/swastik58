@@ -23,8 +23,8 @@
 - 🌱 I'm currently learning HTML, CSS, JavaScript and React
 - 👯 I’m looking to collaborate on projects
 - 💬 Ask me about my hobbies!😜
-- 📫 How to reach me:[LinkedIn-Swastik Supakar](https://www.linkedin.com/in/swastik-s-697214100/) 
-- 📩 Mail me here[G-mail-swastiksupakar19@gmail.com](mailto:swastiksupakar19@gmail.com)
+- 📫 How to reach me : [LinkedIn-Swastik Supakar](https://www.linkedin.com/in/swastik-s-697214100/) 
+- 📩 Mail me here [G-mail-swastiksupakar19@gmail.com](mailto:swastiksupakar19@gmail.com)
 - 😄 Pronouns:He/His
 - ⚡ Not so fun fact: Gamer and movie freak (also a cricket and football lover) !🤣
 
