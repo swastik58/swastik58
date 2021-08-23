@@ -13,7 +13,7 @@
 
 
 
-### I am a Frontend Developer pursuing my Undergrad in Instrumentation Engineering
+### I am a Frontend Developer
 
 - 🔭 I’m currently working on various projects and myself
 - 🌱 I’m a fontend website developer and currently learning backend
