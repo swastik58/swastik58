@@ -1,5 +1,5 @@
 <h1 align="center">HOLA AMIGOS... I'm Swastik 👋</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=swastik58&label=Profile%20views&color=0e75b6&style=flat" alt="ayan2809" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=swastik58&label=Profile%20views&color=0e75b6&style=flat" alt="swastik58" /> </p>
 
 
 <p align="center">
