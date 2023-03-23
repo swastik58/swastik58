@@ -10,7 +10,7 @@
 </p>
 </p>
 
-
+## [Click here to know more about me](https://swastik-portfolio.netlify.app/)
 
 ### I am a Frontend Developer
 
@@ -18,7 +18,7 @@
 - 🌱 I’m a fontend website developer and currently learning backend
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with my project's!
-- 🥅 2021 Goals: Get a job or give GRE and TOEFL to apply in foreign countries
+- 🥅 2023 Goals: Continue in this job for some time to get an experience in the corporate world
 - 🥅 2022 Goals: Got a job now. So probably start preparing for newer adventures
 - 🌱 I'm currently learning HTML, CSS, JavaScript and React
 - 👯 I’m looking to collaborate on projects
