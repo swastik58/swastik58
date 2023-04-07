@@ -15,7 +15,7 @@
 ### I am a Frontend Developer
 
 - 🔭 I’m currently working on various projects and myself
-- 🌱 I’m a fontend website developer and currently learning backend
+- 🌱 I’m a frontend website developer and currently learning backend
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with my project's!
 - 🥅 2023 Goals: Continue in this job for some time to get an experience in the corporate world
