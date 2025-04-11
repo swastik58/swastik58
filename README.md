@@ -12,12 +12,13 @@
 
 ## [Click here to know more about me](https://swastik-portfolio.netlify.app/)
 
-### I am a Frontend Developer
+### I am a Frontend Developer (By heart)
 
-- 🔭 I’m currently working on various projects and myself
-- 🌱 I’m a frontend website developer and currently learning backend
+- 📚 I’m currently studying PGDM in Operations
+- 🌱 I’m a frontend website developer
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with my project's!
+- 🥅 2025 Goals: Get a job as a Project Manager in an IT company
 - 🥅 2023 Goals: Continue in this job for some time to get an experience in the corporate world
 - 🥅 2022 Goals: Got a job now. So probably start preparing for newer adventures
 - 🌱 I'm currently learning HTML, CSS, JavaScript and React
